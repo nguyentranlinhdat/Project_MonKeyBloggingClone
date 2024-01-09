@@ -1,0 +1,82 @@
+.entry-content,
+.entry-content .ql-snow .ql-editor {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+}
+
+.entry-content h2,
+.entry-content h3,
+.entry-content h4 {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.entry-content h2 {
+  font-size: 32px;
+}
+
+.entry-content h3 {
+  font-size: 26px;
+}
+
+.entry-content h4 {
+  font-size: 22px;
+}
+
+.entry-content p {
+  margin-bottom: 20px;
+  line-height: 2;
+}
+
+.entry-content figure {
+  margin-bottom: 20px;
+}
+
+.entry-content figure img {
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.entry-content figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  color: #6b6b6b;
+}
+
+@media screen and (max-width: 1023.98px) {
+  .entry-content {
+    font-size: 14px;
+  }
+
+  .entry-content h2 {
+    font-size: 26px;
+  }
+
+  .entry-content h3 {
+    font-size: 24px;
+  }
+
+  .entry-content h4 {
+    font-size: 20px;
+  }
+}
+img {
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+ul ol {
+  list-style-type: disc;
+  margin-bottom: 20px;
+  padding-left: 40px;
+  list-style: decimal;
+  margin-left: 0;
+}
+ul ol li {
+  margin-bottom: 10px;
+}
+
+ul {
+}
+ol {
+}
